@@ -1,0 +1,7 @@
+C:\Users\roman\Desktop\aircompany\Net\Aircompany\obj\Debug\Aircompany.csprojAssemblyReference.cache
+C:\Users\roman\Desktop\aircompany\Net\Aircompany\obj\Debug\Aircompany.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\aircompany\Net\Aircompany\bin\Debug\Aircompany.exe.config
+C:\Users\roman\Desktop\aircompany\Net\Aircompany\bin\Debug\Aircompany.exe
+C:\Users\roman\Desktop\aircompany\Net\Aircompany\bin\Debug\Aircompany.pdb
+C:\Users\roman\Desktop\aircompany\Net\Aircompany\obj\Debug\Aircompany.exe
+C:\Users\roman\Desktop\aircompany\Net\Aircompany\obj\Debug\Aircompany.pdb
